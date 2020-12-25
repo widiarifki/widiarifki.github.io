@@ -1,0 +1,45 @@
+{% include header.html %}
+
+    {% include home-hero.html %}
+
+    <main id="portfolio">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+
+            {% if site.section_title != '' %}
+            <h2 class="section-title text-center">{{ site.section_title }}</h2>
+            {% endif %}
+            {% if site.section_subtitle != '' %}
+            <p class="section-subtitle text-center">{{ site.section_subtitle }}</p>
+            {% endif %}
+
+            <div class="break"></div>
+
+            {% assign item_order = 0 %}
+
+            {% for post in paginator.posts %}
+
+              {% if post.visible == 1 %}
+                {% capture row %}{% cycle 'genap', 'ganjil' %}{% endcapture %}
+                <div class="wow fadeIn">
+                {% if row == 'genap' %} 
+                  {% include content-right.html %}
+                {% else %}
+                  {% include content-right.html %}
+                {% endif %}
+                </div>
+                
+                {% assign item_order = item_order | plus:1 %}
+              {% endif %}
+
+            {% endfor %}
+
+            {% include pagination.html %}
+
+          </div>
+        </div>
+      </div>
+    </main>
+
+{% include footer.html %}

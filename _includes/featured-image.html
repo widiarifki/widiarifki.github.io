@@ -1,0 +1,9 @@
+  {% if post.featured_image %}
+  <ul class="text-center images">
+    {% for image in post.featured_image %}
+    <li>
+      <img class="img-responsive" src="{{ image }}" title="{{ post.title }}">
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
