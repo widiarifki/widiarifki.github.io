@@ -368,6 +368,8 @@ button.btn, input.btn {
     padding: 4px 0;
     @include bp-xsmall {
       text-align: center;
+      padding-top: 10px;
+      padding-bottom: 10px;
     }
   }
   .section-jump {
