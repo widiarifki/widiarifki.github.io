@@ -18,7 +18,7 @@ email: 'widiarifki@gmail.com'
 heading: 'Hello :)'
 description: "I'm Widia, a software developer from Indonesia. 
 My area of specialty is back-end development using PHP and Android app development. 
-Below are some of the works I've already done before.."
+Scroll down to see some of the works I've already done before.."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://widiarifki.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
