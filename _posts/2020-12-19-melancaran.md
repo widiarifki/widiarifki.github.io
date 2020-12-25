@@ -12,5 +12,5 @@ button_icon: ''
 button_text: ''
 order: 21
 visible: 1
-company: 'Freelance'
+company: 'Self-employed'
 ---
