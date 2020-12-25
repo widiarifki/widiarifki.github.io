@@ -4,7 +4,7 @@ position: left
 title: 'Kinder Doc'
 lead_text: 'Worked on a team to program the backend functionality and integrating the frontend code into the web app.'
 tags: ['PHP', 'Codeigniter', 'MySQL', 'HTML', 'CSS', 'Javascript', 'jQuery']
-featured_image: '/img/posts/kinderdoc-min.png'
+featured_image: ['/img/posts/kinderdoc-min.png']
 date: 2012-11-01 00:00:00
 categories: ['Web Development']
 project_link: ''
