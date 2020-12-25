@@ -259,6 +259,14 @@ button.btn, input.btn {
     padding: 0;
     li {
       display: inline-block;
+      img.img-responsive {
+        @include bp-xsmall {
+          max-width: 75%;
+        }
+        // @include bp-small {
+        //   display: block;
+        // }
+      }
       // &+li {
       //   @include bp-xsmall {
       //     display: none;
