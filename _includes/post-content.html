@@ -6,7 +6,7 @@
   {% if post.project_link != empty %}
   <a href="{{ post.project_link }}" class="project-link">
     <!-- <button class="btn btn-default btn-lg"> -->
-      <i class="fa fa-{{post.button_icon}} fa-lg"></i>{{post.button_text}}
+      <i class="fab fa-{{post.button_icon}}"></i>{{post.button_text}}
     <!-- </button> -->
   </a>
   {% endif %}
@@ -30,11 +30,11 @@
   {% if post.date or post.company %}
   <div class="info">
     <ul>
-      <li><i class="fa fa-clock-o"></i>{{ post.date | date: "%Y" }}</li>
+      <li><i class="fa fa-clock"></i>{{ post.date | date: "%Y" }}</li>
       {% if post.company == "Freelance" or post.company == "Self-employed" or post.company contains 'Voluntary' or post.company contains 'For fun' %}
       <li><i class="fa fa-home"></i>{{ post.company }}</li>
       {% else %}
-      <li><i class="fa fa-building-o"></i>{{ post.company }}</li>
+      <li><i class="fa fa-building"></i>{{ post.company }}</li>
       {% endif %}
     </ul>
   </div>
