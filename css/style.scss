@@ -263,9 +263,9 @@ button.btn, input.btn {
         @include bp-xsmall {
           max-width: 75%;
         }
-        // @include bp-small {
-        //   display: block;
-        // }
+        @include bp-small {
+          max-width: 90%;
+        }
       }
       // &+li {
       //   @include bp-xsmall {
