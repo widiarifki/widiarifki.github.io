@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'KandangKambing'
-lead_text: 'Build the whole platform including the back-end part and the mobile app (Android) for the livestock selling & rearing service platform.'
+lead_text: 'Build the whole platform, the back-end as well as the Android app for the livestock selling & rearing service platform.'
 tags: ['AWS', 'MySQL Database', 'PHP', 'Yii 2', 'API', 'Kotlin', 'Android SDK']
 featured_image: ['/img/posts/kk1.png','/img/posts/kk2.png']
 date: 2019-07-01 00:00:00

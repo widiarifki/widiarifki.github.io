@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Pengadaan Mobile App'
-lead_text: 'Developed the Android App.'
+lead_text: 'Programmed the Android App.'
 tags: ['Kotlin', 'Android SDK']
 featured_image: '/img/posts/pengadaan.png'
 date: 2019-06-01 00:00:00

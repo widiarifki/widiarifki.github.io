@@ -6,7 +6,7 @@ lead_text: 'Worked in a team to programmed the back-end function and integrate f
 tags: ['PHP', 'Codeigniter', 'MySQL Database', 'HTML', 'CSS', 'Javascript', 'jQuery']
 featured_image: '/img/posts/kinderdoc-min.png'
 date: 2012-11-01 00:00:00
-categories: ['Web Dev']
+categories: ['Web Development']
 project_link: ''
 button_icon: ''
 button_text: ''

@@ -6,7 +6,7 @@ lead_text: 'Worked on both the back-end and front-end side of the system.'
 tags: ['MySQL Database', 'PHP', 'Yii 2', 'HTML', 'CSS', 'jQuery']
 featured_image: '/img/posts/simpeg-birokeu-min.png'
 date: 2016-05-01 00:00:00
-categories: ['Web Dev']
+categories: ['Web Development']
 project_link: ''
 button_icon: ''
 button_text: ''
