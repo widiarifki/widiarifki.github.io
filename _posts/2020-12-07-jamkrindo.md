@@ -4,7 +4,7 @@ position: left
 title: 'Jamkrindo'
 lead_text: ''
 tags: ['SQL Server Database', 'PHP', 'Yii 2', 'HTML', 'CSS', 'jQuery']
-featured_image: ''
+featured_image: '/img/posts/jamkrindo.png'
 date: 2016-02-01 00:00:00
 categories: ['Web Dev']
 project_link: ''
