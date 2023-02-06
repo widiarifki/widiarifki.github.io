@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Company Car Booking & Tracking App'
-lead_text: 'A mobile app to manage reservations, schedule, and tracking of company cars. I developed the frontend and backend side.'
+lead_text: 'A mobile app to manage reservations, schedule, and tracking of company cars. I designed solution and developed the frontend and backend side as well.'
 tags: ['MySQL', 'PHP, Yii 2', 'Kotlin', 'Android SDK', 'Traccar']
 featured_image: ['/img/posts/mobdin-min.png', '/img/posts/mobdin2-min.png']
 date: 2020-03-01 00:00:00
