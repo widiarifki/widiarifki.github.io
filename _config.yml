@@ -29,10 +29,10 @@ section_subtitle: ''
 
 # Build settings
 markdown: kramdown
-emoji:    gfx/emoji
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate
+  - jemoji
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem

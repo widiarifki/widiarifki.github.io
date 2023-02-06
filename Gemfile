@@ -3,4 +3,4 @@
 source "https://rubygems.org"
 gemspec
 
-gem 'gemoji', :require => 'emoji/railtie'
+gem 'jemoji'
