@@ -9,7 +9,7 @@ date: 2019-07-01 00:00:00
 categories: ['Solution', 'Android', 'Web', 'API Service']
 project_link: 'https://ternakinaja.id/'
 button_icon: 'link'
-button_text: 'Go to website'
+button_text: 'Visit website'
 order: 22
 visible: 1
 company: 'Freelance'
