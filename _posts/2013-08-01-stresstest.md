@@ -1,16 +1,17 @@
 ---
 layout: inner
 position: left
-title: 'Stress Test Tool'
-lead_text: 'Worked on a team to design and program the backend and the frontend functionality of the web app.'
-tags: ['PHP', 'Codeigniter', 'MySQL', 'HTML', 'CSS', 'Javascript', 'jQuery']
+title: 'Stress Testing Tool'
+lead_text: 'A software that simulates and measures possible risks and financial status of the bank given certain data scenarios.'
+//Worked on a team to design and program the backend and the frontend functionality of the web app.
+tags: ['MySQL', 'PHP, Codeigniter', 'HTML, CSS', 'JS, jQuery']
 featured_image: ['/img/posts/mandiri-min.png']
 date: 2013-06-01 00:00:00
-categories: ['Web Development']
+categories: ['Web']
 project_link: ''
 button_icon: ''
 button_text: ''
 order: 3
 visible: 1
-company: 'Self-employed'
+company: 'Freelance'
 ---
