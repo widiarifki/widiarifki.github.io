@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'KandangKambing'
-lead_text: "A platform to provide online livestock selling and rearing service. I'm working it full-stack."
+lead_text: "A platform providing online livestock selling and rearing service. I worked on it full-stack."
 tags: ['MySQL', 'PHP, Yii 2', 'Kotlin', 'Android SDK', 'AWS']
 featured_image: ['/img/posts/kk1.png','/img/posts/kk2.png']
 date: 2019-07-01 00:00:00
