@@ -8,7 +8,7 @@ featured_image: ['/img/posts/kk1.png','/img/posts/kk2.png']
 date: 2019-07-01 00:00:00
 categories: ['Solution', 'Android', 'Web', 'API Service']
 project_link: 'https://ternakinaja.id/'
-button_icon: 'web'
+button_icon: 'link'
 button_text: 'Go to website'
 order: 22
 visible: 1

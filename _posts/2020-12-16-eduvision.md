@@ -11,6 +11,6 @@ project_link: ''
 button_icon: ''
 button_text: ''
 order: 17
-visible: 1
+visible: 0
 company: 'Self-employed'
 ---

@@ -2,11 +2,11 @@
 layout: inner
 position: left
 title: 'TAP Commtrace'
-lead_text: 'Helped the team implement some features on the existed app.'
-tags: ['Java', 'Android SDK', 'SQLite Database']
+lead_text: 'A mobile app to support the implementation of supply chain traceability in agriculture. I helped the team by taking on some frontend tasks.'
+tags: ['Java', 'Android SDK']
 featured_image: ['/img/posts/commtrace.png','/img/posts/commtrace2.png']
 date: 2017-05-01 00:00:00
-categories: ['Mobile Dev']
+categories: ['Android']
 project_link: ''
 button_icon: ''
 button_text: ''
@@ -14,3 +14,6 @@ order: 14
 visible: 1
 company: 'Aditya Arta Abadi, PT'
 ---
+<!---
+to trace the value chain of farming products as they move from the field to the buyer
+--!>
