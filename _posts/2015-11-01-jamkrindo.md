@@ -6,7 +6,7 @@ lead_text: 'Worked on a team to program the backend and the frontend functionali
 tags: ['SQL Server', 'PHP', 'Yii 2', 'HTML', 'CSS', 'jQuery']
 featured_image: ['/img/posts/jamkrindo.png']
 date: 2015-11-01 00:00:00
-categories: ['Web Development']
+categories: ['Web']
 project_link: ''
 button_icon: ''
 button_text: ''

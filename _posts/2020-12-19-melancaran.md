@@ -1,16 +1,16 @@
 ---
 layout: inner
 position: right
-title: 'Melancaran.com - Tour, Activities Online Booking System'
-lead_text: 'Maintained and implemented new features for the online booking site.'
-tags: ['MySQL', 'PHP', 'Yii 2', 'API', 'Javascript']
+title: 'Melancaran.com'
+lead_text: 'A Tour and Activities Online Booking System. I was responsible for maintaining the established system and implementing some new features.'
+tags: ['MySQL', 'PHP, Yii 2', 'Rest API', 'JS, jQuery']
 featured_image: ['/img/posts/melancaran-min.png']
 date: 2019-04-01 00:00:00
-categories: ['Backend Dev']
+categories: ['Web, API']
 project_link: ''
 button_icon: ''
 button_text: ''
 order: 21
 visible: 1
-company: 'Self-employed'
+company: 'Freelance'
 ---
