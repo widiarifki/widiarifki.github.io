@@ -6,7 +6,7 @@
   {% if post.project_link != empty %}
   <a href="{{ post.project_link }}" class="project-link">
     <!-- <button class="btn btn-default btn-lg"> -->
-      <i class="fab fa-{{post.button_icon}}"></i>{{post.button_text}}
+      <i class="{{post.button_icon}}"></i>{{post.button_text}}
     <!-- </button> -->
   </a>
   {% endif %}
