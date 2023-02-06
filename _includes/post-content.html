@@ -1,7 +1,7 @@
 <div class="content">
   <h3 class="title">{{ post.title }}</h3>
 
-  <p class="excerpt">{{ post.lead_text }}</p>
+  <p class="excerpt">{{ post.lead_text | markdownify }}</p>
 
   {% if post.project_link != empty %}
   <a href="{{ post.project_link }}" class="project-link">
