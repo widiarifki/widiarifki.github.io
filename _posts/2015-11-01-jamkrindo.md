@@ -2,8 +2,8 @@
 layout: inner
 position: left
 title: 'Jamkrindo'
-lead_text: 'Worked on a team to program the backend and the frontend functionality of the system.'
-tags: ['SQL Server', 'PHP', 'Yii 2', 'HTML', 'CSS', 'jQuery']
+lead_text: 'Jamkindo\'s web-based core application.'
+tags: ['MS SQL Server', 'PHP', 'Javascript', 'HTML, CSS']
 featured_image: ['/img/posts/jamkrindo.png']
 date: 2015-11-01 00:00:00
 categories: ['Web']
