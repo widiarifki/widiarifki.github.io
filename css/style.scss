@@ -328,7 +328,7 @@ button.btn, input.btn {
     .categories {
       margin: 1.25em 0;
       &+.tags {
-        margin-top: 0.25em;
+        margin-top: -1em;
       }
       span {
         color: #9b9490;
@@ -341,7 +341,7 @@ button.btn, input.btn {
     .tags {
       margin: 1.25em 0;
       &+.categories {
-        margin-top: 0.25em;
+        margin-top: -1em;
       }
       span {
         color: #7497ad;

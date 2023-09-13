@@ -1,9 +1,10 @@
 ---
 layout: inner
 position: left
-title: 'Company Car Booking & Tracking App'
-lead_text: 'A mobile app to manage reservations, schedule, and tracking of company cars. I designed solution and developed the frontend and backend side as well.'
-tags: ['MySQL', 'PHP, Yii 2', 'Kotlin', 'Android SDK', 'Traccar']
+title: 'Aplikasi Pengajuan Mobil Dinas'
+lead_text: 'A mobile app to manage scheduling and reservations of <i>mobil dinas</i>.'
+tags: ['MySQL', 'PHP, Yii2', 'Kotlin', 'Android SDK']
+#tags: ['MySQL', 'PHP, Yii2', 'Kotlin', 'Android SDK', 'Traccar']
 featured_image: ['/img/posts/mobdin-min.png', '/img/posts/mobdin2-min.png']
 date: 2020-03-01 00:00:00
 categories: ['Solution', 'Android', 'API Service']
