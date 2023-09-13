@@ -5,7 +5,7 @@ title: 'KandangKambing'
 lead_text: "Platform for livestock selling and rearing online service."
 tags: ['MySQL', 'PHP, Yii2', 'Kotlin', 'Android SDK', 'AWS']
 featured_image: ['/img/posts/kk1.png','/img/posts/kk2.png']
-date: 2019-07-01 00:00:00
+date: 2020-04-01 00:00:00
 categories: ['Solution', 'Android', 'Web', 'API Service']
 project_link: 'https://ternakinaja.id/'
 button_icon: 'fas fa-location-arrow'
