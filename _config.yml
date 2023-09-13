@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Widia - Portfolio"
 email: 'widiarifki@gmail.com'
-heading: 'Hi :wave: I''m Widia :bow:'
+heading: 'Hi :wave: My name is Widia :bowing_woman:'
 description: ':computer::art: Software Craftsman  •  :iphone: Specialized in Mobile Dev  •  :womens: she/her  •  :indonesia: Indonesian<br />Feel free to drop me a message :point_down:'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://widiarifki.github.io" # the base hostname & protocol for your site, e.g. https://example.com
