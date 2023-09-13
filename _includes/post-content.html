@@ -11,18 +11,18 @@
   </a>
   {% endif %}
 
-  {% if post.categories != empty %}
-  <div class="categories">
-    {% for category in post.categories %}
-      <span>{{ category }}</span>
-    {% endfor %}
-  </div>
-  {% endif %}
-
   {% if post.tags != empty %}
   <div class="tags">
     {% for tag in post.tags %}
     <span>{{ tag }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if post.categories != empty %}
+  <div class="categories">
+    {% for category in post.categories %}
+      <span>{{ category }}</span>
     {% endfor %}
   </div>
   {% endif %}
