@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Aplikasi Pengajuan Mobil Dinas'
-lead_text: 'A mobile app to manage scheduling and reservations of _mobil dinas_.'
+lead_text: 'Android app to manage scheduling and reservations of _mobil dinas_.'
 tags: ['MySQL', 'PHP, Yii2', 'Kotlin', 'Android SDK']
 #tags: ['MySQL', 'PHP, Yii2', 'Kotlin', 'Android SDK', 'Traccar']
 featured_image: ['/img/posts/mobdin-min.png', '/img/posts/mobdin2-min.png']
