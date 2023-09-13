@@ -326,7 +326,7 @@ button.btn, input.btn {
       margin-top: 1em;
     }
     .categories {
-      margin: 1.25em 0 0;
+      margin: 1.25em 0;
       span {
         color: #9b9490;
         background-color: #EFEBE9;
@@ -346,6 +346,9 @@ button.btn, input.btn {
       }
     }
     .categories + .tags {
+      margin-top: 0.5em;
+    }
+    .tags + .categories {
       margin-top: 0.5em;
     }
     .info {
