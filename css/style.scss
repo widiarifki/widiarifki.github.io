@@ -327,6 +327,9 @@ button.btn, input.btn {
     }
     .categories {
       margin: 1.25em 0;
+      &+.tags {
+        margin-top: 0.25em;
+      }
       span {
         color: #9b9490;
         background-color: #EFEBE9;
@@ -337,6 +340,9 @@ button.btn, input.btn {
     }
     .tags {
       margin: 1.25em 0;
+      &+.categories {
+        margin-top: 0.25em;
+      }
       span {
         color: #7497ad;
         background-color: #ECEFF1;
@@ -344,12 +350,6 @@ button.btn, input.btn {
         display: inline-block;
         margin-bottom: 0.5em;
       }
-    }
-    .categories + .tags {
-      margin-top: 0.5em;
-    }
-    .tags + .categories {
-      margin-top: 0.5em;
     }
     .info {
       color: silver;
