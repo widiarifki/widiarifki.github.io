@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Kinder Doc'
-lead_text: 'A software to help preliminary school teachers to organize and document their teaching works -lesson planning, syllabus, student assessment & observation, etc- in a digitalized and more simplified way.'
+lead_text: 'Web-based app to help preliminary school teachers organize and document their teaching works -lesson planning, syllabus, student assessment & observation, etc- in a digitalized and more simplified way.'
 tags: ['MySQL', 'PHP', 'HTML, CSS', 'JS, jQuery']
 featured_image: ['/img/posts/kinderdoc-min.png']
 date: 2012-11-01 00:00:00
