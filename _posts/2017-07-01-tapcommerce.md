@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'TAP Commtrace'
-lead_text: 'Android app to support supply chain traceability in agricultural field.'
+lead_text: 'An Android app to support supply chain traceability in agricultural field.'
 tags: ['Java', 'Android SDK']
 featured_image: ['/img/posts/commtrace.png','/img/posts/commtrace2.png']
 date: 2017-05-01 00:00:00
