@@ -10,7 +10,7 @@ categories: ['Solution', 'Android', 'Web', 'API Service']
 project_link: 'https://ternakinaja.id/'
 button_icon: 'fas fa-location-arrow'
 button_text: 'Visit website'
-order: 22
+order: 23
 visible: 1
 company: 'Freelance'
 ---
