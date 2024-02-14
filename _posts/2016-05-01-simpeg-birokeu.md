@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Sistem Informasi Manajemen Kepegawaian'
-lead_text: 'A customized web-based information system to manage employee data administration.'
+lead_text: 'Manage comprehensive employee information of Biro Keuangan Setjen Kemendikbud, from personal details and employment rank and promotion history to training records and retirement prospects, enabling detailed employee reports and automated reminder system for upcoming administrative tasks.'
 tags: ['MySQL', 'PHP, Yii 2', 'HTML, CSS', 'JS, jQuery']
 featured_image: ['/img/posts/simpeg-birokeu-min.png']
 date: 2016-05-01 00:00:00
