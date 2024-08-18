@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Kinder Doc'
-lead_text: 'Pedagogical Software for Kindergarten & Pre-School educators in Malaysia, to document and organize the monitoring of teaching activities in one paperless platform, from Lesson Planning, to Student Observation, Daily Reports, and Learning Assessment.'
+lead_text: 'Developed a Pedagogical Software for Malaysian Kindergarten & Pre-School educators, by document and organize the monitoring of teaching activities in one paperless platform.'
 tags: ['MySQL', 'PHP', 'HTML, CSS', 'JS, jQuery']
 featured_image: ['/img/posts/kinderdoc-min.png']
 date: 2012-11-01 00:00:00
@@ -12,5 +12,5 @@ button_icon: ''
 button_text: ''
 order: 2
 visible: 1
-company: 'Danawa Education, Sdn Bhd'
+company: 'Danawa Education Sdn Bhd.'
 ---

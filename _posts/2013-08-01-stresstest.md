@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Stress Test Tool'
-lead_text: 'App to simulate and measure financial status and possible risks to happen within Bank institution based on certain data scenarios.'
+lead_text: 'Developed an app to simulate and assess financial status and potential future risks for banking institutions, based on various data-driven scenarios.'
 tags: ['MySQL', 'PHP', 'HTML, CSS', 'JS, jQuery']
 featured_image: ['/img/posts/mandiri-min.png']
 date: 2013-06-01 00:00:00
