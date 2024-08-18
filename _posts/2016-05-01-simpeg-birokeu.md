@@ -14,4 +14,3 @@ order: 7
 visible: 1
 company: 'PT. Aditya Arta Abadi'
 ---
-#from personal details and employment rank and promotion history to training records and retirement prospects, enabling detailed employee reports and automated reminder system for upcoming administrative tasks.'
