@@ -30,7 +30,7 @@
   {% if post.date or post.company %}
   <div class="info">
     <ul>
-      <li><i class="fa fa-clock"></i>{{ post.date | date: "%Y" }}</li>
+      <li><i class="fa fa-clock"></i>{{ post.date | date: "%Y" }}{% if post.is_current %} - Current{% endif %}</li>
       {% if post.company == "Freelance" or post.company == "Self-employed" or post.company contains 'Voluntary' or post.company contains 'Self' or post.company contains 'Part' %}
       <li><i class="fa fa-home"></i>{{ post.company }}</li>
       {% else %}
