@@ -31,7 +31,7 @@
   <div class="info">
     <ul>
       <li><i class="fa fa-clock"></i>{{ post.date | date: "%Y" }}</li>
-      {% if post.company == "Freelance" or post.company == "Self-employed" or post.company contains 'Voluntary' or post.company contains 'For fun' %}
+      {% if post.company == "Freelance" or post.company == "Self-employed" or post.company contains 'Voluntary' or post.company contains 'Self' or post.company contains 'Part' %}
       <li><i class="fa fa-home"></i>{{ post.company }}</li>
       {% else %}
       <li><i class="fa fa-building"></i>{{ post.company }}</li>
