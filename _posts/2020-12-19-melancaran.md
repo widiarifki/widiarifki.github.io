@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'Melancaran.com'
-lead_text: 'Maintenance a web-based tour and activities online booking system.'
+lead_text: 'Maintained a web-based online booking system for tours and activities.'
 tags: ['MySQL', 'PHP, Yii2', 'Javascript, jQuery']
 featured_image: ['/img/posts/melancaran-min.png']
 date: 2019-04-01 00:00:00
