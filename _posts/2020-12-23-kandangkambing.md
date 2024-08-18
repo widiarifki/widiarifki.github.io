@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'KandangKambing / TernakinAja.id'
-lead_text: "Designed and developed a platform providing services for online livestock selling and rearing."
+lead_text: "Comprehensively designed and developed a platform offering services for online livestock selling and rearing system."
 tags: ['MySQL', 'PHP, Yii2', 'Kotlin', 'Android SDK', 'AWS']
 featured_image: ['/img/posts/kk1.png','/img/posts/kk2.png']
 date: 2020-04-01 00:00:00
