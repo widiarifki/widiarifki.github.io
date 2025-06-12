@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'TAP Commtrace'
-lead_text: "Contributed to the development of an Android app for PT. Triputra Agro Persada, enhancing supply chain traceability within the agricultural sector."
+lead_text: "Contributed to the development of an Android app for PT. Triputra Agro Persada, aimed at improving supply chain traceability in the agricultural sector."
 tags: ['Java', 'Android SDK']
 featured_image: ['/img/posts/commtrace.png','/img/posts/commtrace2.png']
 date: 2017-05-01 00:00:00
