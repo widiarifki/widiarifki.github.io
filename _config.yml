@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: "Widia's Portfolio"
 email: 'widiarifki@gmail.com'
-heading: "Hi, it's Widia here :bowing_woman:"
-description: 'Software Craftsman :computer::art: • Specialized in developing Mobile App :iphone: • Indonesian :indonesia:'
+heading: "Hey, I'm Widia :bowing_woman:"
+description: 'Software Craftsman :computer::art: • Specialized in Mobile App :iphone: • Indonesian :indonesia:'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://widiarifki.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
@@ -24,7 +24,7 @@ github_username: ''
 medium_username: 'widiarifki'
 substack_username: 'widiarifki'
 linkedin_username: 'widiarifki'
-whatsapp_no: '6285721460332'
+whatsapp_no: '6285159774771'
 email_address: 'widiarifki@gmail.com'
 section_title: 'Work Contributions / Portfolios'
 section_subtitle: ''
